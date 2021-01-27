@@ -1,0 +1,5 @@
+Admin : Username : hondaku
+	Password : hondaku123
+
+User  : Username : konsumen
+	Password : hondamu123 
