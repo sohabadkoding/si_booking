@@ -58,7 +58,7 @@
                             <br>
                             Telp. 085373374345<br>
                             Email : wendyrfredana@gmail.com<br>
-                            Alamat : Desa Bunut Seberang, Kec.Bunut Seberang, Kab.Asahan<br>
+                            Alamat : Desa Bunut Seberang, Kec.Pulo Bandring, Kab.Asahan<br>
                             22 Oktober 1999<br>
                             <br>
                           </div>
